@@ -1,1 +1,2 @@
-static/js/config.js
+# Ignore config gile
+/static/js/config.js
